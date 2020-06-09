@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+0	src/card-components/CardBack.js	/^const imgMapper = {0: zero, 1: one, 2: two, 3: three, 4: four, 5: five}$/;"	p	class:import
+1	src/card-components/CardBack.js	/^const imgMapper = {0: zero, 1: one, 2: two, 3: three, 4: four, 5: five}$/;"	p	class:import
+2	src/card-components/CardBack.js	/^const imgMapper = {0: zero, 1: one, 2: two, 3: three, 4: four, 5: five}$/;"	p	class:import
+3	src/card-components/CardBack.js	/^const imgMapper = {0: zero, 1: one, 2: two, 3: three, 4: four, 5: five}$/;"	p	class:import
+4	src/card-components/CardBack.js	/^const imgMapper = {0: zero, 1: one, 2: two, 3: three, 4: four, 5: five}$/;"	p	class:import
+5	src/card-components/CardBack.js	/^const imgMapper = {0: zero, 1: one, 2: two, 3: three, 4: four, 5: five}$/;"	p	class:import
+choux-maru-istanbul	src/card-components/MovieCard.js	/^const posterMap = {$/;"	p	class:const
+choux-maru-part-1	src/card-components/MovieCard.js	/^  'choux-maru-istanbul': cmi,$/;"	p	class:const
+chromeboi	src/card-components/MovieCard.js	/^  'choux-maru-part-1': cmp1,$/;"	p	class:const
+default	src/card-components/MovieCard.js	/^  'the-trash-man': ttm,$/;"	p	class:const
+escape-from-vim	src/card-components/MovieCard.js	/^  'chromeboi': cb,$/;"	p	class:const
+goldeneye	src/card-components/MovieCard.js	/^  'escape-from-vim': efv,$/;"	p	class:const
+handsome-boy	src/card-components/MovieCard.js	/^  'goldeneye': goldeneye,$/;"	p	class:const
+marus-spinoff	src/card-components/MovieCard.js	/^  'handsome-boy': hbmc,$/;"	p	class:const
+require.extensions	test/mochacfg.js	/^require.extensions['.png'] = function(){ return null; }$/;"	f
+terrance-king	src/card-components/MovieCard.js	/^  'marus-spinoff': msts,$/;"	p	class:const
+the-trash-man	src/card-components/MovieCard.js	/^  'terrance-king': tkr,$/;"	p	class:const
